@@ -1,11 +1,6 @@
 <template lang='html'>
 <div class=''>
     <img src='../assets/g-dino.png' alt='dino logo'>
-    <!-- <img :src='image'/> -->
-    <!-- <h2>Job Listings!</h2>
-    <ul>
-        <li v-for='job in jobs'>{{job.title}}</li>
-        </ul> -->
     </div>
     
 </template>

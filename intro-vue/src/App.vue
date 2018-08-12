@@ -8,10 +8,12 @@
 <script>
 // import component from component path
 import Header from './components/Header.vue';
+import Joblist from './components/Joblist.vue';
 export default {
   name: 'App',
   components: {
-    Header
+    Header,
+    Joblist
   }
 };
 </script>
