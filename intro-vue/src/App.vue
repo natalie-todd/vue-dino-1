@@ -1,20 +1,20 @@
 <template>
   <div id='app'>
 <!-- Add in component, ex: <Todo /> -->
-<Joblist />
+<Header />
   </div>
 </template>
 
 <script>
 // import component from component path
-import Joblist from "./components/Joblist.vue";
+import Header from './components/Header.vue';
 export default {
-  name: "App",
+  name: 'App',
   components: {
-    Joblist
+    Header
   }
 };
 </script>
 
-<style>
+<style lang='css'>
 </style>
